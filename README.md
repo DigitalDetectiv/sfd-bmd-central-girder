@@ -21,7 +21,7 @@ The results are extracted directly from a **NetCDF Xarray dataset** using Python
 ## 👩‍💻 Author
 
 **Sneha Shaji**
-4th Year B.Tech – School of Computing
+3rd Year B.Tech – School of Computing
 VIT Bhopal University
 
 ---
