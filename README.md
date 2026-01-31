@@ -60,7 +60,7 @@ Features:
 Script:
 
 ```
-3D_task_1.py   (or your 2D script file)
+Task_1.py   (or your 2D script file)
 ```
 
 ---
@@ -105,7 +105,7 @@ Then run:
 ### For 2D diagrams
 
 ```
-python 3D_task_1.py
+python Task_1.py
 ```
 
 ### For 3D diagrams
@@ -127,5 +127,3 @@ python 3D_task_2.py
 * The 3D results are fully interactive through the generated HTML files.
 
 ---
-
-That’s all you need for a clean and professional README for this project.
